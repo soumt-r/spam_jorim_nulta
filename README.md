@@ -1,5 +1,6 @@
 # spam_jorim_nulta
 본 레포지토리는 [nulta](https://github.com/nulta)님의 [fedi_findandkillspam](https://github.com/nulta/fedi_findandkillspam) 도구를 보다 간단히 사용하기 위해 제작되었습니다.
+
 자세한 내용은 해당 레포를 참조해주세요.
 
 ## 사용법
